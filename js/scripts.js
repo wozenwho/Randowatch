@@ -9,7 +9,7 @@ var support = ["Ana", "Lucio", "Mercy", "Symmetra", "Zenyatta"];
 /*
 Array of hero image names.
 */
-var heroImages = new Array(24);
+var heroImages = new Array(25);
 heroImages[0] = "Spray_Ana_Pixel.png";
 heroImages[1] = "Spray_Bastion_Pixel.png";
 heroImages[2] = "Spray_D.Va_Pixel.png";
