@@ -2,7 +2,7 @@
 Hero arrays. Groups heroes by category.
 */
 var defense = ["Bastion", "Hanzo", "Junkrat", "Mei", "Torbjorn", "Widowmaker"];
-var offense = ["Genji", "Tracer", "Soldier_76", "Reaper", "Sombra", "Pharah", "McCree"];
+var offense = ["Genji", "Tracer", "Soldier_76", "Reaper", "Sombra", "Pharah", "McCree", "Doomfist"];
 var tank = ["D.Va", "Orisa", "Reinhardt", "Roadhog", "Winston", "Zarya"];
 var support = ["Ana", "Lucio", "Mercy", "Symmetra", "Zenyatta"];
 
@@ -34,6 +34,7 @@ heroImages[20] = "Spray_Widowmaker_Pixel.png";
 heroImages[21] = "Spray_Winston_Pixel.png";
 heroImages[22] = "Spray_Zarya_Pixel.png";
 heroImages[23] = "Spray_Zenyatta_Pixel.png";
+heroImages[24] = "Spray_Doomfist_Pixe.png";
 
 
 
