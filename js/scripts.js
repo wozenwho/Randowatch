@@ -34,7 +34,7 @@ heroImages[20] = "Spray_Widowmaker_Pixel.png";
 heroImages[21] = "Spray_Winston_Pixel.png";
 heroImages[22] = "Spray_Zarya_Pixel.png";
 heroImages[23] = "Spray_Zenyatta_Pixel.png";
-heroImages[24] = "Spray_Doomfist_Pixe.png";
+heroImages[24] = "Spray_Doomfist_Pixel.png";
 
 
 
